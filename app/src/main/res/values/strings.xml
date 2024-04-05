@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlfaCalculator</string>
+    <string name="point">.</string>
+    <string name="left_br">(</string>
+    <string name="right_br">)</string>
+    <string name="rank">^</string>
+    <string name="pi">π</string>
+    <string name="exp">e</string>
+    <string name="shared_pref"> </string>
+</resources>

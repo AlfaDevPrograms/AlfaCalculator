@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">
+        #1F1F20
+    </color>
+    <color name="white">
+        #F6F6F6
+    </color>
+    <color name="main">
+        #FFDB8B
+    </color>
+    <color name="greenEdit">
+        #1cac78
+    </color>
+    <color name="empty">
+        #00F6F6F6
+    </color>
+    <color name="whiteDark">
+        #EDEDED
+    </color>
+    <color name="whiteEmpty">
+        #BFF6F6F6
+    </color>
+    <color name="blackEmpty">
+        #80000000
+    </color>
+    <color name="red">
+        #ee204d
+    </color>
+    <color name="red_white">
+        #fb607f
+    </color>
+    <color name="grayBlack">
+        #414141
+    </color>
+    <color name="gray">
+        #293133
+    </color>
+</resources>
